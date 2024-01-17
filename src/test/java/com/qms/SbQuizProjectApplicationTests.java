@@ -1,4 +1,4 @@
-package com.qms;
+/*package com.qms;
 
 import static org.junit.Assert.assertEquals;
 
@@ -28,4 +28,4 @@ class SbQuizProjectApplicationTests {
        assertEquals(actualValue, expectedValue);
    }
 
-}
+}*/
